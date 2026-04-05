@@ -10,8 +10,8 @@ This repository contains my official language proficiency results, academic achi
 
 ---
 
-## 🎓 Academic Achievements
-* 🏫 **YGS 2014 National Ranking (Top 0.2%):** [View Exam Result](./ygs_2014.pdf)
+## Academic Achievements
+* **YGS 2014 National Ranking (Top 0.2%):** [View Exam Result](./ygs_2014.pdf)
 
 ---
 [← Back to Portfolio](https://papilio77.github.io)
